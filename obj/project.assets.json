@@ -8760,11 +8760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jabramczyk\\Downloads\\BlazorUsersRoles(1)\\BlazorUsersRoles\\BlazorUsersRoles.csproj",
+      "projectUniqueName": "C:\\Users\\jabramczyk\\repositories\\ath\\cb\\zad1\\BlazorUsersRoles\\BlazorUsersRoles.csproj",
       "projectName": "BlazorUsersRoles",
-      "projectPath": "C:\\Users\\jabramczyk\\Downloads\\BlazorUsersRoles(1)\\BlazorUsersRoles\\BlazorUsersRoles.csproj",
+      "projectPath": "C:\\Users\\jabramczyk\\repositories\\ath\\cb\\zad1\\BlazorUsersRoles\\BlazorUsersRoles.csproj",
       "packagesPath": "C:\\Users\\jabramczyk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jabramczyk\\Downloads\\BlazorUsersRoles(1)\\BlazorUsersRoles\\obj\\",
+      "outputPath": "C:\\Users\\jabramczyk\\repositories\\ath\\cb\\zad1\\BlazorUsersRoles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jabramczyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
